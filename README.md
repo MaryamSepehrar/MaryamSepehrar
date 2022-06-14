@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaryamSepehrar
 - 👀 I’m interested in R programming language
-- 🌱 I’m currently learning data analysis
+- 🌱 I’m currently learning data analysis by R, Paython , SQL ,...
 - 📫 How to reach me: maryamsepehrar67@gmail.com
 
 <!---
